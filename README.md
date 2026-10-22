@@ -1,6 +1,8 @@
 # LLM Security & Red Teaming Lab
 
-![LLM Security & Red Teaming Lab](llm-security-banner.png)
+
+![LLM Security & Red Teaming Lab](llm-security-banner.jpg)
+  
 
 ### Testing AI Systems. Identifying Risks. Building Safer Models.
 
