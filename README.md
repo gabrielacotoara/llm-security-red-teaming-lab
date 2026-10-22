@@ -1,6 +1,8 @@
 # llm-security-red-teaming-lab
 
-![LLM Security & Red Teaming Lab](llm-security-banner.png)
+![LLM Security & Red Teaming Lab]
+
+(llm-security-banner.png)
 Defensive LLM security testing, prompt injection evaluation, threat modeling, risk scoring, and mitigation research.
 
 # LLM Security & Red Teaming Lab
